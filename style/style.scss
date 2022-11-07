@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    .container_container {
+        width: 100vw;
+        height: 100vh;
+        overflow-y: scroll;
+
+        background-color: #1B212C;
+
+        scroll-snap-type: y mandatory;
+        scroll-behavior: smooth;
+
+        .container {
+            width: 100vw;
+            height: 100vh;
+
+            scroll-snap-align: start;
+
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+
+        .main {
+            background-image: url(../Pictures_ps/main.png);
+        }
+
+        .first {
+
+            background-image: url(../Pictures_ps/page_1.png);
+
+        }
+
+        .second {
+            background-image: url(../Pictures_ps/page_1.png);
+
+        }
+    }
+}
