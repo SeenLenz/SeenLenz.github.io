@@ -1,8 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body .container_container {
@@ -14,7 +13,6 @@ body .container_container {
       scroll-snap-type: y mandatory;
   scroll-behavior: smooth;
 }
-
 body .container_container .container {
   width: 100vw;
   height: 100vh;
@@ -23,16 +21,54 @@ body .container_container .container {
   background-repeat: no-repeat;
   background-position: center;
 }
-
-body .container_container .main {
-  background-image: url(../Pictures_ps/main.png);
+body .container_container .p0 {
+  background-image: url(../Pictures_ps/p0.jpg);
 }
-
-body .container_container .first {
-  background-image: url(../Pictures_ps/page_1.png);
+body .container_container .p1 {
+  background-image: url(../Pictures_ps/p1.jpg);
 }
-
-body .container_container .second {
-  background-image: url(../Pictures_ps/page_1.png);
+body .container_container .p2 {
+  background-image: url(../Pictures_ps/p2.jpg);
 }
-/*# sourceMappingURL=style.css.map */
+body .container_container .p3 {
+  background-image: url(../Pictures_ps/p3.jpg);
+}
+body .container_container .p4 {
+  background-image: url(../Pictures_ps/p4.jpg);
+}
+body .container_container .p5 {
+  background-image: url(../Pictures_ps/p5.jpg);
+}
+body .container_container .p6 {
+  background-image: url(../Pictures_ps/p6.jpg);
+}
+body .container_container .p7 {
+  background-image: url(../Pictures_ps/p7.jpg);
+}
+body .container_container .p8 {
+  background-image: url(../Pictures_ps/p8.jpg);
+}
+body .container_container .p9 {
+  background-image: url(../Pictures_ps/p9.jpg);
+}
+body .container_container .p10 {
+  background-image: url(../Pictures_ps/p10.jpg);
+}
+body .container_container .p11 {
+  background-image: url(../Pictures_ps/p11.jpg);
+}
+body .container_container .p12 {
+  background-image: url(../Pictures_ps/p12.jpg);
+}
+body .container_container .p13 {
+  background-image: url(../Pictures_ps/p13.jpg);
+}
+body .container_container .p14 {
+  background-image: url(../Pictures_ps/p14.jpg);
+}
+body .container_container .p15 {
+  background-image: url(../Pictures_ps/p15.jpg);
+}
+body .container_container .p16 {
+  background-image: url(../Pictures_ps/p16.jpg);
+}/*# sourceMappingURL=style.css.map */
