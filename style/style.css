@@ -21,7 +21,7 @@ body .container_container .container {
   scroll-snap-align: start;
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: top;
 }
 
 body .container_container .container1 {
