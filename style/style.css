@@ -19,9 +19,13 @@ body .container_container .container {
   width: 100vw;
   height: 100vh;
   scroll-snap-align: start;
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
+}
+
+body .container_container .container1 {
+  background-size: cover;
 }
 
 body .container_container .p0 {

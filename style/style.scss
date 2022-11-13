@@ -21,9 +21,15 @@ body {
 
             scroll-snap-align: start;
 
-            background-size: cover;
+            background-size: contain;
             background-repeat: no-repeat;
             background-position: center;
+        }
+
+        .container1 {
+
+            background-size: cover;
+
         }
 
         .p0 {
