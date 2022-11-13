@@ -22,10 +22,11 @@ body .container_container .container {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: top;
+  background-position-y: 20px;
 }
 
 body .container_container .container1 {
-  background-size: cover;
+  background-size: contain;
 }
 
 body .container_container .p0 {
